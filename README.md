@@ -42,13 +42,3 @@ HTML, SCSS, TypeScript, SPA
 ### Codewars: 
 
 ![](https://www.codewars.com/users/evvgenchik/badges/large)
-
-<h2 align="left" id="skills">:fire: My statistics:</h2>
-
-<a href="#title">
-  <img src="https://github-readme-stats.vercel.app/api?username=evvgenchik&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
-  
-<a href="#title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evvgenchik&show_icons=true&locale=en&layout=compact&theme=react" alt="TopLangs" />
-</a>
