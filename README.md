@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1015907298377482281)
 
 ### My CV
-<a href="https://evvgenchik.github.io/rsschool-cv/cv">
+<a href="https://evvgenchik.github.io/CV/">
   <img src="https://img.shields.io/badge/MY%20CV-100000?style=for-the-badge&logo=github&logoColor=white" alt="CV Badge"/>
 </a>
 
