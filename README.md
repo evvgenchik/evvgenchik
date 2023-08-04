@@ -93,10 +93,15 @@
 <div/>
   
 ### Last projects:
-- [Fatsecret](https://fatsecret-rs-clone.netlify.app/)  
-HTML, SCSS, TypeScript, SPA,Node js, Express, Mongo DB
-- [Online store](https://boisterous-cajeta-64e3a7.netlify.app/)  
-HTML, SCSS, TypeScript, SPA
+- [Finder](https://finder-dating.netlify.app/)
+- [Repo](https://github.com/evvgenchik/Dating-app)  
+HTML, SCSS, TypeScript, React, Next js, Postgresql, Prisma  
+- [Fatsecret](https://fatsecret-rs-clone.netlify.app/)
+- [Repo](https://github.com/RS-clone-nutrition/rs-clone)  
+HTML, SCSS, TypeScript, Node js, Express, Mongo DB
+- [Online store](https://boisterous-cajeta-64e3a7.netlify.app/)
+- [Repo](https://github.com/evvgenchik/online-store)  
+HTML, SCSS, TypeScript,
 
 ### Codewars: 
 
