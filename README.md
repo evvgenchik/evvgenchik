@@ -69,6 +69,18 @@
       </td>
       <td align="center" width="96">
         <a href="#skills">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/postgresql-original-wordmark.svg" width="40" height="40" title="Mongo"/>
+        </a>
+        <br>Postgresql
+      </td>
+      <td align="center" width="96">
+        <a href="#skills">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/nextjs-original-wordmark.svg" width="40" height="40" title="Mongo"/>
+        </a>
+        <br>Next JS
+      </td>
+      <td align="center" width="96">
+        <a href="#skills">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" title="Express"/>
         </a>
         <br>Express
