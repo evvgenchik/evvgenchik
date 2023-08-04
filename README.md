@@ -69,15 +69,15 @@
       </td>
       <td align="center" width="96">
         <a href="#skills">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/postgresql-original-wordmark.svg" width="40" height="40" title="Mongo"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="40" height="40" title="Mongo"/>
         </a>
         <br>Postgresql
       </td>
       <td align="center" width="96">
         <a href="#skills">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/nextjs-original-wordmark.svg" width="40" height="40" title="Mongo"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1024px-NestJS.svg.png" width="40" height="40" title="Mongo"/>
         </a>
-        <br>Next JS
+        <br>Nest JS
       </td>
       <td align="center" width="96">
         <a href="#skills">
